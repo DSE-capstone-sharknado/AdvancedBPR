@@ -40,3 +40,6 @@ This repository contains all the final codes that were used to produce the resul
 
 **Capsstone Final Report.pdf**: Final deliverable - Final report of the project
 
+## Files and Data
+
+All final and intermediate files as well as presentations and reports are stored in a shared teamdrive ala Google Drive.  The name of the teamdrive is Sharknado.  Google Team Drives do not allow for linking directly and appear within a user's Google Drive once access is granted.  Access Requests can be granted by any Sharknado team member as well as Dr. Ilkay Altantas (altintas@sdsc.edu) and Kevin Coakley  (kcoakley@eng.ucsd.edu)
