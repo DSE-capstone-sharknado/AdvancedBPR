@@ -34,7 +34,9 @@ This repository contains all the final codes that were used to produce the resul
 
 **Capstone Poster.pdf**: Final deliverable - Poster with summary of the project
 </br>
+
 **Capstone Presentation.pdf**: Final deliverable - Final presentation presented 
 </br>
+
 **Capsstone Final Report.pdf**: Final deliverable - Final report of the project
 
