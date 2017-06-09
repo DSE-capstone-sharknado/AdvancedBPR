@@ -19,5 +19,5 @@ This repository contains all the final codes that were used to produce the resul
 </br>
 **Capstone Presentation.pdf**: Final deliverable - Final presentation presented 
 </br>
-**FinalReport.pdf**: Final deliverable - Final report of the project
+**Capsstone Final Report.pdf**: Final deliverable - Final report of the project
 
