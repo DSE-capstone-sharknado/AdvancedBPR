@@ -2,6 +2,7 @@
 
 This repository contains all the final codes that were used to produce the results. 
 
+## Codes
 
 **00a_ExtractDump.ipynb** - Contains Webscrapping code
 </br>
@@ -28,6 +29,8 @@ This repository contains all the final codes that were used to produce the resul
 </br>
 
 </br>
+
+## Documentation
 
 **Capstone Poster.pdf**: Final deliverable - Poster with summary of the project
 </br>
